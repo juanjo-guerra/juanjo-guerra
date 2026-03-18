@@ -1,6 +1,4 @@
 # 🎧 Tobi Mac Beat
-
-    Lo-fi Producer & Computer Science Student
     
     Construyendo sonido y código al mismo tiempo.
 
